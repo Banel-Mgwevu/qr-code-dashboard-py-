@@ -1,1 +1,1 @@
-# Qr_Code-py-
+# QR Code dashboard written in Django
